@@ -1,0 +1,24 @@
+main{
+    background-color: rgb(237, 237, 237);
+    padding: 2rem 3rem;
+
+    div{
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+    }
+}
+.titulo-main{
+    font-size: 2rem;
+}
+
+.main-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+
+    img{
+        width: 5rem;
+    }
+}
