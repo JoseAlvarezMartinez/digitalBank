@@ -1,0 +1,25 @@
+@media only screen and (min-width: 700px) {
+  .contenedor-inferior-header {
+    width: 50%;
+    margin: 0 auto;
+  }
+
+  .main-card{
+    max-width: 20rem;
+  }
+
+.main-contenedor-flex{
+    flex-wrap: wrap;
+    flex-direction: unset;
+    justify-content: center;
+    margin: 2rem 0;
+}
+.article-card{
+    max-width: 25rem;
+
+    img{
+        height: 15rem;
+        object-fit: cover;
+    }
+}
+}
